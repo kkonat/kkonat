@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=kkonat&theme=algolia&show_icons=true)](https://github.com/kkonat)
+[![wakatime](https://wakatime.com/badge/user/35a6d3bb-52ad-4c1a-a26d-cd16848e100d.svg)](https://wakatime.com/@35a6d3bb-52ad-4c1a-a26d-cd16848e100d)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkonat)](https://github.com/kkonat)
