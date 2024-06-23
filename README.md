@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=kkonat&theme=algolia&show_icons=true)](https://github.com/kkonat)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkonat)](https://github.com/kkonat)
