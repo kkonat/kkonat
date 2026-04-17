@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![wakatime](https://wakatime.com/badge/user/35a6d3bb-52ad-4c1a-a26d-cd16848e100d.svg)](https://wakatime.com/@35a6d3bb-52ad-4c1a-a26d-cd16848e100d)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkonat&layout=compact)](https://github.com/kkonat)
+
+-->
